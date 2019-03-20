@@ -1,0 +1,92 @@
+[
+	{
+		"id": 3,
+		"clicked": false,
+		"photo": "assets/AustingMartin.png",
+		"name": "Danny"
+	},
+	{
+		"id": 12,
+		"clicked": false,
+		"photo": "assets/BMWX6M.png",
+		"name": "Snow"
+	},
+	{
+		"id": 11,
+		"clicked": false,
+		"photo": "assets/camaro.png",
+		"name": "Tyrion"
+	},
+	{
+		"id": 15,
+		"clicked": false,
+		"photo": "assets/ferrari.png",
+		"name": "Arya"
+	},
+	{
+		"id": 5,
+		"clicked": false,
+		"photo": "assets/ford-gt.png",
+		"name": "Cersei"
+	},
+	{
+		"id": 10,
+		"clicked": false,
+		"photo": "assets/2016-mclaren-p1.png",
+		"name": "Sansa"
+	},
+	{
+		"id": 4,
+		"clicked": false,
+		"photo": "assets/MercedesGclass.png",
+		"name": "Bran"
+	},
+	{
+		"id": 1,
+		"clicked": false,
+		"photo": "assets/mustang.png",
+		"name": "Yara"
+	},
+	{
+		"id": 8,
+		"clicked": false,
+		"photo": "assets/nissangtr.png",
+		"name": "Varys"
+	},
+	{
+		"id": 9,
+		"clicked": false,
+		"photo": "assets/maserati-levante.png",
+		"name": "Loras"
+	},
+	{
+		"id": 6,
+		"clicked": false,
+		"photo": "assets/urus.png",
+		"name": "Renly"
+	},
+	{
+		"id": 13,
+		"clicked": false,
+		"photo": "assets/Ford-Raptor.png",
+		"name": "Drogo"
+	},
+	{
+        "id": 14,
+        "clicked": false,
+		"photo": "assets/trackhoawk.png",
+		"name": "Hodor"
+    },
+    {
+        "id": 7,
+        "clicked": false,
+		"photo": "assets/911.png",
+		"name": "Margaery"
+    },
+    {
+        "id": 2,
+        "clicked": false,
+		"photo": "assets/panamera.png",
+		"name": "Brienne"
+	}
+]

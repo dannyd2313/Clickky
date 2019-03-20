@@ -1,0 +1,12 @@
+body {
+    background: rgb(64, 78, 106);
+  }
+  
+  .player-container {
+    max-width: 1250px;
+    margin: auto;
+    display: flex;
+    flex-flow: row wrap;
+    list-style: none;
+    justify-content: center;
+  }
